@@ -1,11 +1,4 @@
-/*
-    Name: Nikolas
-    Surname: Antoniou
-    ID: U234N0848
-    Project Name: Tic Tac Toe - Assignment 2
-    Course: COMP-113
-    Date: 19/01/2025
-*/
+
 
 #include <iostream>
 #include <cstdlib>
